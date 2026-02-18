@@ -1,0 +1,205 @@
+.search-bar {
+  height: 600px;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+/* ARROW  */
+.arrow {
+  cursor: pointer;
+  transition: transform 0.5s ease;
+}
+.up {
+  transform: rotate(0);
+}
+.down {
+  transform: rotate(180deg);
+}
+.catalogue {
+  background: #fff;
+}
+
+.breadcrumb-text {
+  font-size: 14px;
+  color: #888;
+}
+
+.filters-sidebar {
+  border-right: 1px solid #eee;
+}
+
+.filter-section {
+  margin-bottom: 40px;
+}
+
+.filter-section h5 {
+  font-weight: 600;
+}
+
+.filter-item {
+  display: flex;
+  gap: 8px;
+  margin: 8px 0;
+}
+
+.size-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.size-box {
+  border: 1px solid #ccc;
+  padding: 6px 10px;
+  cursor: pointer;
+}
+
+.size-box.active {
+  background: black;
+  color: white;
+}
+
+.color-grid {
+  display: flex;
+  gap: 8px;
+}
+
+.color-circle {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 1px solid #ddd;
+}
+
+.clear-btn {
+  width: 100%;
+  padding: 10px;
+  background: black;
+  color: white;
+  border: none;
+}
+
+.catalogue-banner {
+  position: relative;
+}
+
+.banner-img {
+  width: 100%;
+  height: 320px;
+  object-fit: cover;
+}
+
+.banner-overlay {
+  position: absolute;
+  bottom: 30px;
+  left: 40px;
+  color: white;
+}
+
+.banner-overlay h2 {
+  font-size: 2.5rem;
+}
+.catalogue {
+  background: #ffffff;
+}
+
+.breadcrumb-text {
+  font-size: 14px;
+  color: #777;
+}
+
+.filters-sidebar {
+  border-right: 1px solid #eee;
+}
+
+.filter-section {
+  margin-bottom: 35px;
+}
+
+.filter-section h5 {
+  font-weight: 600;
+}
+
+.filter-item {
+  display: flex;
+  gap: 8px;
+  margin: 6px 0;
+}
+
+.size-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.size-box {
+  border: 1px solid #ccc;
+  padding: 6px 10px;
+  cursor: pointer;
+}
+
+.size-box.active {
+  background: black;
+  color: white;
+}
+
+.color-grid {
+  display: flex;
+  gap: 8px;
+}
+
+.color-circle {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 1px solid #ddd;
+}
+
+.clear-btn {
+  width: 100%;
+  padding: 10px;
+  background: black;
+  color: white;
+  border: none;
+  margin-top: 20px;
+}
+
+.catalogue-banner {
+  position: relative;
+}
+
+.banner-img {
+  width: 100%;
+  height: 320px;
+  object-fit: cover;
+}
+
+.banner-overlay {
+  position: absolute;
+  bottom: 30px;
+  left: 40px;
+  color: white;
+}
+
+.banner-overlay h2 {
+  font-size: 2.5rem;
+}
+
+/* SIZE */
+.size-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: #cfcfcf 1px solid;
+  width: 40px;
+  height: 40px;
+  font-size: 12px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.size-text.active {
+  border-color: #000;
+}

@@ -1,0 +1,15 @@
+.blue {
+  background-color: #5b31f4;
+  border-color: #5b31f4;
+}
+.blue:hover {
+  background-color: #3c0def;
+  border-color: #3c0def;
+  color: #fff;
+  cursor: pointer;
+  box-shadow: 2px 2px 0 2px #0000001e;
+}
+.purple {
+  background-color: #9d88f9;
+  border-color: #9d88f9;
+}
