@@ -254,16 +254,4 @@ Possible extensions:
 ## 👩‍💻 Author
 
 **Ananya Dua**
-
-Full-Stack Developer | AI & ML Enthusiast
-Passionate about building scalable, clean, and production-ready systems.
-
 ---
-
-## ⭐ If You Like This Project
-
-Give it a star ⭐ and feel free to fork it.
-
-```
-me which level you want 🚀
-```
